@@ -1,0 +1,7 @@
+{
+  "name": "Covid-19Api",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
